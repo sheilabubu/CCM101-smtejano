@@ -1,1 +1,1 @@
-# CCM101-smtejano
+# CCM101 Cloud Computing Portfolio
