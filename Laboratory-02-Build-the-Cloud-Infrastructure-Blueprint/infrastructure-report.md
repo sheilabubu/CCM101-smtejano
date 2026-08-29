@@ -34,16 +34,23 @@
 
 ## Disk Capacity
 
-- **Disk Capacity:** 19G
+- **Filesystem:** /dev/vda1
+- **Size:** 19G
+- **Used:** 5.4G
+- **Available:** 13G
+- **Usage:** 30%
+- **Mounted on:** /
 
 ## Mounted File Systems
 
-- **/dev/vda1:** mounted on `/`
-- **/dev/vda16:** mounted on `/boot`
-- **/dev/vda15:** mounted on `/boot/efi`
-- **tmpfs:** mounted on `/run`
-- **tmpfs:** mounted on `/dev/shm`
-- **tmpfs:** mounted on `/run/lock`
+| Filesystem | Size | Used | Avail | Use% | Mounted on |
+|---|---:|---:|---:|---:|---|
+| tmpfs | 191M | 1000K | 190M | 1% | /run |
+| /dev/vda1 | 19G | 5.4G | 13G | 30% | / |
+| tmpfs | 952M | 84K | 952M | 1% | /dev/shm |
+| tmpfs | 5.0M | 0 | 5.0M | 0% | /run/lock |
+| /dev/vda16 | 881M | 703M | 131M | 85% | /boot |
+| /dev/vda15 | 105M | 6.2M | 99M | 6% | /boot/efi |
 
 ## Hostname
 
