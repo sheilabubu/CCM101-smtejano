@@ -1,44 +1,54 @@
 # Infrastructure Report
 
-## Cloud Server Information
+## Operating System
 
-This report documents the information gathered from the Linux cloud server using the KillerCoda Playground.
+- **PRETTY_NAME:** Ubuntu 24.04.4 LTS
+- **NAME:** Ubuntu
+- **VERSION_ID:** 24.04
+- **VERSION:** 24.04.4 LTS (Noble Numbat)
+- **VERSION_CODENAME:** noble
+- **ID:** ubuntu
+- **ID_LIKE:** debian
+- **HOME_URL:** https://www.ubuntu.com/
+- **SUPPORT_URL:** https://help.ubuntu.com/
+- **BUG_REPORT_URL:** https://bugs.launchpad.net/ubuntu/
+- **PRIVACY_POLICY_URL:** https://www.ubuntu.com/legal/ubuntu-advantage
+- **UBUNTU_CODENAME:** noble
+- **LOGO:** ubuntu-logo
 
-| Information | Result |
-|---|---|
-| Operating System | Ubuntu 24.04.4 LTS |
-| Kernel Version | 6.8.0-138-generic |
-| CPU Model | Intel Xeon E312xx (Sandy Bridge, IBRS update) |
-| Number of CPU Cores | 1 |
-| Total RAM | 1.9 GiB |
-| Disk Capacity | 19G |
-| Hostname | ubuntu |
-| IP Address | 172.30.1.2, 172.17.0.1 |
+## Kernel Version
+
+- **Kernel:** 6.8.0-138-generic
+
+## CPU Model
+
+- **CPU Model:** Intel Xeon E312xx (Sandy Bridge, IBRS update)
+
+## Number of CPU Cores
+
+- **CPU Cores:** 1
+
+## Total RAM
+
+- **Total RAM:** 1.9 GiB
+
+## Disk Capacity
+
+- **Disk Capacity:** 19G
 
 ## Mounted File Systems
 
-The mounted file systems were checked using the `df -h` command.
+- **/dev/vda1:** mounted on `/`
+- **/dev/vda16:** mounted on `/boot`
+- **/dev/vda15:** mounted on `/boot/efi`
+- **tmpfs:** mounted on `/run`
+- **tmpfs:** mounted on `/dev/shm`
+- **tmpfs:** mounted on `/run/lock`
 
-| File System | Size | Used | Available | Mounted On |
-|---|---:|---:|---:|---|
-| tmpfs | 191M | 100K | 190M | /run |
-| /dev/vda1 | 19G | 5.4G | 13G | / |
-| tmpfs | 952M | 84K | 952M | /dev/shm |
-| tmpfs | 5.0M | 0 | 5.0M | /run/lock |
-| /dev/vda16 | 881M | 703M | 178M | /boot |
-| /dev/vda15 | 105M | 6.2M | 99M | /boot/efi |
+## Hostname
 
-## Linux Commands Used
+- **Hostname:** ubuntu
 
-The following commands were used to investigate the cloud server:
+## IP Address
 
-```bash
-cat /etc/os-release
-uname -r
-lscpu | grep "Model name"
-nproc
-free -h
-df -h /
-df -h
-hostname
-hostname -I
+- **IP Address:** 172.30.1.2, 172.17.0.1
