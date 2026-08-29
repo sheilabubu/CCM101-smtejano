@@ -45,13 +45,11 @@ df -h
 hostname
 hostname -I
 
----
-
-## Skills Learned
+### Skills Learned
 
 In this laboratory activity I learned how to explore a Linux cloud environment and check the different resources available in the system and I also gain a better understanding of how compute, storage, networking, and the operating system are connected and used in cloud infrastructure, I also learned how to compare the services offered by different cloud providers and practiced creating a basic infrastructure diagram and documenting my findings using Markdown.
 
-## Challenges Encountered
+### Challenges Encountered
 
 The challenges I encountered was remembering and using the correct Linux commands to collect the required information from the cloud environment, I also found it challenging to organize the information clearly in Markdown and make sure that all the important details were included. Creating the infrastructure diagram was another challenge because I needed to properly identify and connect the different components of the cloud infrastructure.
 
