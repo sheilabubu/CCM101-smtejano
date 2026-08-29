@@ -2,8 +2,6 @@
 
 ## 1. Compute Resources
 
-**Example:** Intel Xeon E312xx CPU with 1 CPU core.
-
 **Purpose:**  
 The CPU provides the processing power needed to run programs, commands, and services.
 
@@ -16,8 +14,6 @@ The KillerCoda environment uses an Intel Xeon E312xx CPU with 1 CPU core to proc
 ---
 
 ## 2. Storage Resources
-
-**Example:** 19G disk with `/dev/vda1` mounted on `/`.
 
 **Purpose:**  
 Storage is used to save the operating system, files, applications, and other data.
@@ -32,8 +28,6 @@ The KillerCoda environment provides a 19G disk, with `/dev/vda1` mounted on `/`,
 
 ## 3. Networking Resources
 
-**Example:** IP addresses `172.30.1.2` and `172.17.0.1`.
-
 **Purpose:**  
 Networking allows computers, servers, and cloud services to communicate with each other.
 
@@ -46,8 +40,6 @@ The KillerCoda environment has the IP addresses `172.30.1.2` and `172.17.0.1`, w
 ---
 
 ## 4. Operating System
-
-**Example:** Ubuntu 24.04.4 LTS.
 
 **Purpose:**  
 The operating system manages the server's hardware and software resources and provides an environment for running applications and commands.
