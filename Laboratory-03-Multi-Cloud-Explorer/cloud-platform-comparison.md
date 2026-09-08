@@ -44,9 +44,14 @@ AWS, Microsoft Azure, and Google Cloud provide similar cloud services under diff
 
 
 ## Sources
-**https://learn.microsoft.com/en-us/entra/fundamentals/**
+https://learn.microsoft.com/en-us/entra/fundamentals/
+
 https://cloud.google.com/kubernetes-engine
+
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/
+
 https://docs.aws.amazon.com/
+
 https://docs.cloud.google.com/
+
 https://learn.microsoft.com/en-us/azure/?product=popular
