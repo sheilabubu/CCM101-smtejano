@@ -65,3 +65,5 @@ Businesses and organizations can use Azure for:
 
 <img width="1366" height="682" alt="Screenshot 2026-09-08 192525" src="https://github.com/user-attachments/assets/94ca33e2-52c0-4327-8bb6-65559c5893ea" />
 
+## Sources
+https://azure.microsoft.com/en-us
