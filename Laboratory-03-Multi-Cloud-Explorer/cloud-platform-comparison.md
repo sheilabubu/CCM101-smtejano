@@ -30,7 +30,23 @@ Among the three providers, **AWS has the widest selection of cloud services**. I
 
 I will choose **AWS** because its extensive collection of cloud services and flexibility. It also provides many options for computing, storage, networking, databases, security, and application development for someone learning cloud computing, AWS also provides opportunities to explore different areas of cloud technology using one platform.
 
+## Cloud Service Equivalents
+
+AWS, Microsoft Azure, and Google Cloud provide similar cloud services under different names. The table below shows the corresponding services for common cloud computing needs.
+
+| Cloud Service               | AWS        | Microsoft Azure                | Google Cloud                   |
+| --------------------------- | ---------- | ------------------------------ | ------------------------------ |
+| Compute / Virtual Server    | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| Cloud Object Storage        | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| User and Access Management  | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| Managed Relational Database | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| Managed Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+
 ## Sources
 https://learn.microsoft.com/en-us/entra/fundamentals/
 https://cloud.google.com/kubernetes-engine
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/
+https://docs.aws.amazon.com/
+https://docs.cloud.google.com/
+https://learn.microsoft.com/en-us/azure/?product=popular
