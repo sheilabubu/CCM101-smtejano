@@ -59,3 +59,20 @@ Microsoft Azure can be a strong choice for the global e-commerce company because
 * **Azure SQL Database** – for managing customer, product, and transaction data.
 * **Azure Front Door** – for improving global application delivery and routing users to suitable endpoints.
 
+# Multi-Cloud Decision Matrix
+
+| Business Requirement               | Recommended Platform | Justification                                                                                                                                                          |
+| ---------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Startup Business                   | AWS                  | AWS provides flexible cloud services that allow a startup to begin with basic resources and expand its infrastructure as the business grows.                           |
+| Large Enterprise                   | Azure                | Azure offers strong enterprise management, security, identity services, and integration with business technologies, making it suitable for large organizations.        |
+| Microsoft-Based Environment        | Azure                | Azure is closely connected with Microsoft products such as Windows Server, Microsoft 365, and Microsoft Entra ID, providing easier integration and management.         |
+| Artificial Intelligence / ML       | GCP                  | Google Cloud provides specialized AI and machine learning services, including Vertex AI, as well as computing resources designed for demanding AI workloads.           |
+| Container and Kubernetes Workloads | GCP                  | Google Kubernetes Engine (GKE) provides managed Kubernetes capabilities that simplify the deployment, scaling, and management of containerized applications.           |
+| International Web Application      | AWS                  | AWS offers a large global infrastructure, scalable computing, load balancing, and content delivery services that can support applications with users around the world. |
+
+## Sources
+https://docs.aws.amazon.com/
+
+https://learn.microsoft.com/en-us/azure/?product=popular
+
+https://docs.cloud.google.com/
