@@ -63,3 +63,5 @@ Enterprises commonly use AWS for:
 
 <img width="1366" height="687" alt="Screenshot 2026-09-08 190036" src="https://github.com/user-attachments/assets/1d963a96-0905-4918-b088-c9734706c648" />
 
+## Sources
+https://aws.amazon.com/about-aws/
