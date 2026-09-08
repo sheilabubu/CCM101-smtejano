@@ -74,7 +74,8 @@ The Linux server has approximately 1.9 GiB of total memory.
 
 ### Screenshot
 
-![Memory Information](screenshots/memory-information.png)
+<img width="1053" height="111" alt="killercoda-terminal3" src="https://github.com/user-attachments/assets/479573bd-62fd-4446-a652-eac33af98f17" />
+
 
 ---
 
@@ -97,7 +98,8 @@ The main root filesystem has 19 GiB of storage, with approximately 13 GiB availa
 
 ### Screenshot
 
-![Disk Space](screenshots/disk-information.png)
+<img width="1366" height="189" alt="killercoda-terminal4" src="https://github.com/user-attachments/assets/ae31af54-962f-4b56-b0e1-f9d994667486" />
+
 
 ---
 
@@ -111,26 +113,3 @@ If this Linux server were migrated to the cloud, it could be hosted using a virt
 | Microsoft Azure | Azure Virtual Machines | Hosts Linux virtual machines |
 | Google Cloud | Compute Engine | Hosts Linux virtual machines |
 
-## AWS – Amazon EC2
-
-Amazon EC2 could host this Linux server as a virtual machine. CPU, memory, storage, and other resources can be configured based on the server's requirements.
-
-## Microsoft Azure – Azure Virtual Machines
-
-Azure Virtual Machines could host this Linux server because Azure supports Linux operating systems. A VM size with suitable CPU and memory resources can be selected.
-
-## Google Cloud – Compute Engine
-
-Google Compute Engine could host this Linux server as a virtual machine. It supports Linux operating systems and provides configurable computing and storage resources.
-
-## Conclusion
-
-The Linux server can be migrated to AWS, Microsoft Azure, or Google Cloud because all three cloud providers offer virtual machine services that support Linux.
-
-Based on the current server requirements of approximately 1 CPU, 1.9 GiB memory, and 19 GiB disk space, a small cloud virtual machine would be suitable for a similar basic workload. The exact VM size should depend on the application's actual resource requirements.
-
-## References
-
-- Amazon Web Services – AWS Documentation: https://docs.aws.amazon.com/
-- Microsoft Azure – Azure Documentation: https://learn.microsoft.com/en-us/azure/
-- Google Cloud – Google Cloud Documentation: https://cloud.google.com/docs
