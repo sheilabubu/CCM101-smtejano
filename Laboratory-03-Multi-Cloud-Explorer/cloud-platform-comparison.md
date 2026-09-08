@@ -28,5 +28,5 @@ Among the three providers, **AWS has the widest selection of cloud services**. I
 
 ### 4. Which cloud platform would you personally choose and why?
 
-I would choose **AWS** because of its extensive collection of cloud services and its flexibility. It provides many options for computing, storage, networking, databases, security, and application development. For someone learning cloud computing, AWS also provides opportunities to explore different areas of cloud technology using one platform.
+I will choose **AWS** because its extensive collection of cloud services and flexibility. It also provides many options for computing, storage, networking, databases, security, and application development for someone learning cloud computing, AWS also provides opportunities to explore different areas of cloud technology using one platform.
 
