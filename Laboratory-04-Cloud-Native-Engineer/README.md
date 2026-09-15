@@ -14,7 +14,7 @@ This mission introduced me to the basics of cloud-native engineering and Docker 
 
 ## Docker Commands Executed
 
-### Checkpoint 3 - Docker Verification
+### Docker Verification
 
 ```bash
 docker --version
@@ -24,7 +24,7 @@ docker --version
 docker info
 ```
 
-### Checkpoint 4 - Nginx Deployment
+### Nginx Deployment
 
 ```bash
 docker pull nginx
@@ -38,7 +38,7 @@ docker run -d -p 8080:80 nginx
 curl http://localhost:8080
 ```
 
-### Checkpoint 5 - Container Lifecycle
+### Container Lifecycle
 
 ```bash
 docker ps
