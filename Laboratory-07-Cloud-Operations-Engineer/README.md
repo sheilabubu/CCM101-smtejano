@@ -2,9 +2,7 @@
 
 ## Mission Overview
 
-This laboratory activity focused on monitoring a Linux server and observing the performance of a web application using Docker. I used the KillerCoda Ubuntu Playground to check system resources, deploy an Nginx web server, generate website requests, examine application logs, and monitor container resource consumption.
-
-The purpose of this mission was to understand how Cloud Operations Engineers check server health, identify errors, and monitor applications to help maintain reliable services.
+This laboratory activity focused on monitoring a Linux server and observing the performance of a web application using Docker. I used the KillerCoda Ubuntu Playground to check system resources, deploy an Nginx web server, generate website requests, examine application logs, and monitor container resource consumption. The purpose of this mission was to understand how Cloud Operations Engineers check server health, identify errors, and monitor applications to help maintain reliable services.
 
 ## Objectives
 
