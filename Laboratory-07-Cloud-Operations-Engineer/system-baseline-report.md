@@ -20,9 +20,6 @@ The purpose of this activity is to check the server's RAM, disk storage, and CPU
 
 **Disk Usage:** 30%
 
-## CPU and Process Monitoring
-
-I used the `top` command to observe the server's CPU load, memory usage, and running processes.
 
 ## Importance of Disk Space Monitoring
 
