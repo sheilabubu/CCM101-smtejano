@@ -226,7 +226,4 @@ Review the active UFW rules, VirtualBox forwarding, and Docker network configura
 - Keep a separate, protected copy of important backups.
 - Test recovery procedures before relying on them.
 
-## 16. Conclusion
-
-This manual provides the main operational procedures for deploying, securing, monitoring, backing up, and maintaining CloudNova. Administrators should verify commands and configuration against the actual server before making production changes.
 
